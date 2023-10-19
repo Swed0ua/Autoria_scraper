@@ -1,0 +1,41 @@
+[
+    {
+        "regionid": "6",
+        "phone": "",
+        "id": "34826500",
+        "name": "Tesla Model 3",
+        "year": "2018",
+        "race": "70 тис. км",
+        "price": "30 500",
+        "url": "https://auto.ria.com/uk/auto_tesla_model_3_34826500.html",
+        "img": "https://cdn3.riastatic.com/photosnew/auto/photo/tesla_model-3__504984063f.webp",
+        "desc": "Продаємо свій автомобіль. Приганяли з США в 2020 році. Певший власник. Ремонтували для себе не для продажі! На авто їздила жінка, машина в ідеальному стані. В комплекті оригінальна тесловська зарядка з сумкою + одне колесо на диску, використовували як запаска. Шини рідні Тесли Мішлен. Реально проходить 450 км. зі швидкістью 110. Дзвоніть відповім на всі запитання.",
+        "fio": "Артем"
+    },
+    {
+        "regionid": "6",
+        "phone": "(099) 493 23 13",
+        "id": "34826503",
+        "name": "Great Wall Pegasus",
+        "year": "2008",
+        "race": "110 тис. км",
+        "price": "4 302",
+        "url": "https://auto.ria.com/uk/auto_great_wall_pegasus_34826503.html",
+        "img": "https://cdn1.riastatic.com/photosnew/auto/photo/great-wall_pegasus__504986301f.webp",
+        "desc": "Продається авто грейт валл пегасус на ходу без всяких проблем.перший власник.\nВсі детальні питання за телефоном",
+        "fio": "Паша"
+    },
+    {
+        "regionid": "6",
+        "phone": "",
+        "id": "34826498",
+        "name": "Hyundai Elantra",
+        "year": "2010",
+        "race": "225 тис. км",
+        "price": "5 300",
+        "url": "https://auto.ria.com/uk/auto_hyundai_elantra_34826498.html",
+        "img": "https://cdn4.riastatic.com/photosnew/auto/photo/hyundai_elantra__504986139f.webp",
+        "desc": "Чудовий авто , 2-ий власник (3 роки у валодінні)\nДвигун/КПП відмінно\nПідвіска відмінно\nЗчеплення, заміна по регламенту, також відмінно\nХороший надійний варіант, торг",
+        "fio": "Іван Lytvyn"
+    }
+]

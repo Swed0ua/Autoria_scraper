@@ -1,0 +1,5 @@
+URLS = [
+    'https://auto.ria.com/uk/search/?indexName=auto&categories.main.id=1&region.id[0]=10&price.currency=1&mileage.lte=333&engine.lte=5&abroad.not=0&custom.not=1&size=100&year[0].gte=2007&year[0].lte=2023&price.USD.gte=1500&price.USD.lte=65000&sort[0].order=dates.created.desc&dates.sold.not=0000-00-00%2000:00:00',
+    'https://auto.ria.com/uk/search/?indexName=auto&categories.main.id=6&region.id%5b0%5d=10&price.currency=1&mileage.lte=490&engine.lte=5&sort%5b0%5d.order=dates.created.desc&abroad.not=0&custom.not=1&size=100&year%5b0%5d.gte=2006&dates.sold.not=0000-00-00%2000:00:00',
+    'https://auto.ria.com/uk/search/?indexName=auto&year[0].gte=2006&categories.main.id=7&region.id[0]=10&price.currency=1&engine.lte=5&sort[0].order=dates.created.desc&abroad.not=0&custom.not=1&size=100&dates.sold.not=0000-00-00%2000:00:00'
+]
